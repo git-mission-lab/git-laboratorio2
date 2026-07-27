@@ -1,1 +1,15 @@
-Laboratorio de Git para el equipo de arquitectiura emprearial
+# Laboratorio Git
+
+Bienvenidos al laboratorio de Git para Arquitectura Empresarial.
+
+## Objetivo
+
+Durante esta práctica aprenderemos el flujo básico de trabajo con Git y GitHub mediante una misión práctica.
+
+## Misión
+
+Recuperar un ADR perdido, registrar sus cambios y publicarlos en GitHub.
+
+## Participantes
+
+Cada participante trabajará sobre su propio Fork del repositorio.
